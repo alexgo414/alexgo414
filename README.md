@@ -18,6 +18,7 @@
 
 ### 👨‍💻 Sobre Mí
 
+```python
 const estudiante = {
 nombre: "Alejandro González González",
 ubicacion: "Málaga, España 🇪🇸",
@@ -27,7 +28,7 @@ personalidad: "Curioso por naturaleza 🔍",
 pasiones: ["Investigación", "Aprendizaje continuo", "Tecnología"],
 objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 };
-
+```
 
 🔬 **Me apasiona investigar** sobre nuevas tecnologías, vulnerabilidades y aplicaciones de IA en ciberseguridad  
 🎯 **Objetivo actual:** Especializarme en la intersección entre IA y seguridad informática  
