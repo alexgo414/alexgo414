@@ -125,7 +125,7 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 
 ### 🏆 Logros y Proyectos Destacados
 
-- 🧠 **Perceptrón Multicapa desde cero**: Implementación completa usando solo NumPy
+- 🧠 **Implementación de sistema de gestión interna de una zapatería**: Implementación completa y total de un sistema de gestión interna conectado con Prestashop via API
 - 🛒 **Sistema de Descuentos E-commerce**: Lógica compleja para múltiples cupones
 - 🔍 **Optimizadores ML**: Análisis comparativo de algoritmos de optimización
 - 🛡️ **Módulos PrestaShop**: Desarrollo de funcionalidades personalizadas
