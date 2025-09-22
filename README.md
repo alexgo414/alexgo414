@@ -1,16 +1,162 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=¡Hola!%20Soy%20[Tu%20Nombre]&fontSize=50&animation=fadeIn" />
+</div>
 
-<!--
-**alexgo414/alexgo414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🔐 Estudiante de Ciberseguridad e IA | 🤖 Investigador Curioso | 🎓 Universidad de Málaga</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://komarev.com/ghpv/?username=alexgo414&style=flat-square&color=blue" alt="Visitas al perfil"/>
+  <img src="https://img.shields.io/github/followers/alexgo414?style=flat-square&color=blue" alt="Seguidores"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/alexgo414><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alejandro.gonvi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 👨‍💻 Sobre Mí
+
+const estudiante = {
+nombre: "Alejandro González González",
+ubicacion: "Málaga, España 🇪🇸",
+universidad: "Universidad de Málaga (UMA)",
+estudios: ["Ciberseguridad", "Inteligencia Artificial"],
+personalidad: "Curioso por naturaleza 🔍",
+pasiones: ["Investigación", "Aprendizaje continuo", "Tecnología"],
+objetivo: "Proteger el mundo digital con IA 🛡️🤖"
+};
+
+
+🔬 **Me apasiona investigar** sobre nuevas tecnologías, vulnerabilidades y aplicaciones de IA en ciberseguridad  
+🎯 **Objetivo actual:** Especializarme en la intersección entre IA y seguridad informática  
+🌱 **Siempre aprendiendo:** Desde algoritmos de ML hasta técnicas de pentesting  
+💡 **Filosofía:** "La curiosidad es el motor de todos los logros" - Edwin Hubble
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<div align="center">
+
+#### 💻 **Lenguajes de Programación**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+#### 🧠 **IA & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+#### 🔒 **Ciberseguridad**
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2E5266?style=flat-square&logo=metasploit&logoColor=white)
+
+#### 🌐 **Web & Desarrollo**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
+
+</div>
+
+---
+
+### 🎯 Áreas de Investigación
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🔐 **Ciberseguridad**
+- Análisis de vulnerabilidades
+- Ingeniería social y phishing
+- Seguridad en aplicaciones web
+- Forense digital
+- Red Team vs Blue Team
+
+</td>
+<td valign="top" width="50%">
+
+#### 🤖 **Inteligencia Artificial**
+- Machine Learning aplicado a seguridad
+- Detección de anomalías con IA
+- Procesamiento de lenguaje natural
+- Redes neuronales personalizadas
+- Optimización de algoritmos
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[tu-username]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-username]&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[tu-username]&theme=tokyonight" alt="Streak"/>
+</div>
+
+---
+
+### 🏆 Logros y Proyectos Destacados
+
+- 🧠 **Perceptrón Multicapa desde cero**: Implementación completa usando solo NumPy
+- 🛒 **Sistema de Descuentos E-commerce**: Lógica compleja para múltiples cupones
+- 🔍 **Optimizadores ML**: Análisis comparativo de algoritmos de optimización
+- 🛡️ **Módulos PrestaShop**: Desarrollo de funcionalidades personalizadas
+- 📚 **Investigación Continua**: Siempre explorando nuevos frameworks y técnicas
+
+---
+
+### 🎓 Formación Académica
+
+🏛️ **Universidad de Málaga (UMA)**  
+📚 Grado en Ciberseguridad e Inteligencia Artificial  
+📅 En curso - Promoción 2023-2027
+
+---
+
+### 📈 Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[tu-username]&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+### 💭 Frase Inspiradora
+
+<div align="center">
+  <i>"En ciberseguridad, no se trata de si van a atacar, sino de cuándo. La preparación y la curiosidad son nuestras mejores armas."</i>
+</div>
+
+---
+
+### 📫 ¿Quieres colaborar?
+
+Si tienes un proyecto interesante relacionado con **ciberseguridad**, **IA**, o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
+
+- 💼 Abierto a **prácticas profesionales** y **proyectos colaborativos**
+- 🤝 Interesado en **comunidades tech** y **eventos de seguridad**
+- 🎯 Buscando **mentorías** en el campo de la ciberseguridad
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ Si te gusta mi trabajo, dale una estrella a mis repositorios ⭐</i>
+</div>
