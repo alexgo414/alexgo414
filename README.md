@@ -72,7 +72,7 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 #### 🔐 **Ciberseguridad**
 - Análisis de vulnerabilidades
@@ -82,7 +82,7 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 - Red Team vs Blue Team
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 #### 🤖 **Inteligencia Artificial**
 - Machine Learning aplicado a seguridad
@@ -92,8 +92,19 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 - Optimización de algoritmos
 
 </td>
+<td valign="top" width="33%">
+
+#### 💻 **Desarrollo & Programación**
+- Aplicaciones web full-stack
+- Módulos personalizados PrestaShop
+- Arquitectura de sistemas adaptativos
+- APIs REST y integración de servicios
+- Soluciones escalables y modulares
+
+</td>
 </tr>
 </table>
+
 
 ---
 
