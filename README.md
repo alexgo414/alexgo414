@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=¡Hola!%20Soy%20[Tu%20Nombre]&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=¡Hola!%20Soy%20Alejandro%20González&fontSize=50&animation=fadeIn" />
 </div>
 
 <h3 align="center">🔐 Estudiante de Ciberseguridad e IA | 🤖 Investigador Curioso | 🎓 Universidad de Málaga</h3>
