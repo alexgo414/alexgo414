@@ -131,7 +131,7 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 ### 📈 Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[tu-username]&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexgo414&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
