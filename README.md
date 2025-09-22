@@ -5,9 +5,10 @@
 <h3 align="center">🔐 Estudiante de Ciberseguridad e IA | 🤖 Investigador Curioso | 🎓 Universidad de Málaga</h3>
 
 <div align="center">
-  <img src="https://visitor-counter-badge.vercel.app/api/alexgo414/profile?label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil"/>
-  <img src="https://img.shields.io/github/followers/alexgo414?style=flat-square&color=blue" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/followers/alexgo414?style=flat-square&color=blue&label=Seguidores" alt="Seguidores"/>
+  <img src="https://img.shields.io/badge/Estado-Desarrollando-success?style=flat-square" alt="Estado"/>
 </div>
+
 
 
 <p align="center">
