@@ -5,8 +5,8 @@
 <h3 align="center">🔐 Estudiante de Ciberseguridad e IA | 🤖 Investigador Curioso | 🎓 Universidad de Málaga</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpv/?username=alexgo414&style=flat-square&color=blue" alt="Visitas al perfil"/>
-  <img src="https://img.shields.io/github/followers/alexgo414?style=flat-square&color=blue" alt="Seguidores"/>
+  <img src="https://komarev.com/ghpv/?username=[alexgo414]&style=flat-square&color=blue" alt="Visitas al perfil"/>
+  <img src="https://img.shields.io/github/followers/[alexgo414]?style=flat-square&color=blue" alt="Seguidores"/>
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-```python
+```c
 const estudiante = {
 nombre: "Alejandro González González",
 ubicacion: "Málaga, España 🇪🇸",
@@ -33,7 +33,7 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 🔬 **Me apasiona investigar** sobre nuevas tecnologías, vulnerabilidades y aplicaciones de IA en ciberseguridad  
 🎯 **Objetivo actual:** Especializarme en la intersección entre IA y seguridad informática  
 🌱 **Siempre aprendiendo:** Desde algoritmos de ML hasta técnicas de pentesting  
-💡 **Filosofía:** "La curiosidad es el motor de todos los logros" - Edwin Hubble
+💡 **Filosofía:** "No importa qué tan lento vayas, siempre y cuando no te detengas" - Confucio
 
 ---
 
