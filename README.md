@@ -118,7 +118,7 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexgo414&theme=tokyonight" alt="Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=alexgo414&theme=tokyonight" alt="Streak"/>
 </div>
 
 ---
