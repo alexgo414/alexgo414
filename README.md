@@ -5,8 +5,8 @@
 <h3 align="center">🔐 Estudiante de Ciberseguridad e IA | 🤖 Investigador Curioso | 🎓 Universidad de Málaga</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpv/?username=[alexgo414]&style=flat-square&color=blue" alt="Visitas al perfil"/>
-  <img src="https://img.shields.io/github/followers/[alexgo414]?style=flat-square&color=blue" alt="Seguidores"/>
+  <img src="https://komarev.com/ghpv/?username=alexgo414&style=flat-square&color=blue" alt="Visitas al perfil"/>
+  <img src="https://img.shields.io/github/followers/alexgo414?style=flat-square&color=blue" alt="Seguidores"/>
 </div>
 
 <p align="center">
