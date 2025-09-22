@@ -100,12 +100,12 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[tu-username]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-username]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexgo414&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgo414&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[tu-username]&theme=tokyonight" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexgo414&theme=tokyonight" alt="Streak"/>
 </div>
 
 ---
