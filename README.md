@@ -128,7 +128,7 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 
 ### 🏆 Logros y Proyectos Destacados
 
-- 🧠 **Implementación de sistema de gestión interna de una zapatería**: Implementación completa y total de un sistema de gestión interna conectado con Prestashop via API
+- 🧠 **Implementación de sistema de gestión interna de una zapatería con IA**: Implementación completa y total de un sistema de gestión interna (facturas --> autorellenado con IA, stock --> Dar de alta mucho más fácil con la ayuda de la IA, ventas, calendario de pagos) conectado con Prestashop via API
 - 🛒 **Sistema de Descuentos E-commerce**: Lógica compleja para múltiples cupones
 - 🔍 **Optimizadores ML**: Análisis comparativo de algoritmos de optimización
 - 🛡️ **Módulos PrestaShop**: Desarrollo de funcionalidades personalizadas
