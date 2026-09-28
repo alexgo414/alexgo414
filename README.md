@@ -128,6 +128,16 @@ objetivo: "Proteger el mundo digital con IA 🛡️🤖"
 
 ### 🏆 Logros y Proyectos Destacados
 
+#### 🚀 Synkro — Suite de gestión para pymes
+
+[synkro.online](https://synkro.online) · Plataforma SaaS en producción, diseñada y desarrollada por mí de principio a fin.
+
+- **Control horario:** registro de jornada, ausencias, vacaciones e informes verificables.
+- **Facturación con IA:** extracción automática de datos de facturas en PDF o imagen.
+- **Portal de clientes:** proyectos, mensajería, tickets y presupuestos con IA.
+
+#### 📌 Otros proyectos
+
 - 🧠 **Implementación de sistema de gestión interna de una zapatería con IA**: Implementación completa y total de un sistema de gestión interna (facturas --> autorellenado con IA, stock --> Dar de alta mucho más fácil con la ayuda de la IA, ventas, calendario de pagos) conectado con Prestashop via API
 - 🛒 **Sistema de Descuentos E-commerce**: Lógica compleja para múltiples cupones
 - 🔍 **Optimizadores ML**: Análisis comparativo de algoritmos de optimización
